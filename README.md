@@ -4,7 +4,11 @@ Python SQLITE3 examples
 
 **References:** 
 
+https://www.sqlite.org/index.html
+
 https://www.sqlitetutorial.net/sqlite-python/
+
+https://datagy.io/python-sqlite-tutorial/
 
 The examples in this repository have been tested on Ubuntu 20.04/22.04 LTS
 
