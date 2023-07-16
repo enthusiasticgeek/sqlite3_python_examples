@@ -85,10 +85,3 @@ These examples may also work on Windows.
     SQLite MAX
     SQLite MIN
     SQLite SUM
-
-## Demonstrate SQLite Interfaces
-
-    SQLite PHP
-    SQLite Node.js
-    SQLite Java
-    SQLite Python    
