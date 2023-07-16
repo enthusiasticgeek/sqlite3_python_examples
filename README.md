@@ -8,7 +8,7 @@ https://www.sqlitetutorial.net/sqlite-python/
 
 The examples in this repository have been tested on Ubuntu 20.04/22.04 LTS
 
-pip install pysqlite3 
+`pip install pysqlite3`
 
 These examples may also work on Windows.
 
